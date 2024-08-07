@@ -191,7 +191,7 @@ verdad = [
     "¿Hay alguna serie que sea tu ‘guilty pleasure’?",
     "¿Cuál es el último libro que dejaste sin terminar?",
     "¿Tienes miedo a las arañas?",
-    "¿Has tenido sexo en un avión,
+    "¿Has tenido sexo en un avión",
     "¿Has hecho pis en la playa?",
     "¿Te has colado en un concierto sin entrada?",
     "¿Has pedido un autógrafo a alguien famoso?",
