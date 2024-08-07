@@ -1,4 +1,4 @@
-verdad = [
+Verdades = [
     "¿Tendrías relaciones con alguien de este grupo?",
     "¿Has tenido relaciones con alguien de este grupo?",
     "¿Quién es la persona más sexy aquí?",
