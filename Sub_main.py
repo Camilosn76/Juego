@@ -1,3 +1,5 @@
+pip install git+https://raw.githubusercontent.com/Camilosn76/Juego/main/Retos.py
+
 from IPython.display import display, HTML
 import random
 from Preguntas import Preguntas
