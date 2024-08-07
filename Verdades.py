@@ -22,7 +22,7 @@ Verdades = [
     "¿Con qué dos personas de aquí harías un trío?",
     "¿Qué es algo que nunca te has atrevido a pedir en la cama?",
     "¿Beso seco, húmedo o mojado?",
-    "¿Has tenido sexo anal?,
+    "¿Has tenido sexo anal?",
     "¿Cuál es tu juguete sexual favorito?",
     "¿Prefieres hacerlo de pie o tumbado?",
     "¿Alguna vez te has acostado con algún familiar de un amigo/a tuyo?",
