@@ -5,7 +5,7 @@ from Retos import Retos
 from Verdades import Verdades
 
 ## Juegos ##
-def YoNuncaNunca():
+def YoNuncaNunca(Jugadores):
   n_1 = random.randint(0, len(Jugadores)-1)
   n_2 = random.randint(0, len(Preguntas)-1)
   
@@ -16,7 +16,7 @@ def YoNuncaNunca():
 """
   return display(HTML(html_content))
 
-def Verdad_o_Reto():
+def Verdad_o_Reto(Jugadores):
   answer = ""
   n_1 = random.randint(0, len(Jugadores)-1)
   n_2 = random.randint(0, len(Preguntas)-1)
